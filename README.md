@@ -1,4 +1,4 @@
-### Hi there 👋, Ziya Akhundov
+### Hi there 👋, I'm Ziya Akhundov
 #### Web Development
 ![Web Development](https://github.com/ZiyaAkhundov/ZiyaAkhundov/blob/main/front.png?raw=true)
 
