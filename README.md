@@ -1,6 +1,6 @@
 ### Hi there 👋, Ziya Akhundov
 #### Web Development
-![Web Development](https://github.com/ZiyaAkhundov/ZiyaAkhundov/blob/main/Frontend.png?raw=true)
+![Web Development](https://github.com/ZiyaAkhundov/ZiyaAkhundov/blob/main/front.png?raw=true)
 
 I'm Front-end developer. I realy enjoy learning languages and frameworks. Some technologies I enjoy working with include Javascript and Jquery. Previously i worked on help desk and technical support in ASOİU.
 
