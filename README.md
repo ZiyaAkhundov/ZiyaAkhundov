@@ -4,7 +4,9 @@
 
 I'm Front-end developer. I realy enjoy learning languages and frameworks. Some technologies I enjoy working with include Javascript and Jquery. Previously i worked on help desk and technical support in ASOİU.
 
-Skills:   HTML / CSS / JAVASCRIPT / JQUERY / BOOTSTRAP /SQL
+### Skills and Experience: 
+*💻 HTML,CSS,JAVASCRIPT,JQUERY
+*💾 SQL
 
 - 🔭 I’m currently working on this page. 
 
