@@ -6,7 +6,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Developer;Always+learning+new+things" alt="Typing SVG" max-width="100%"/></a>
 </p>
   <img align="center" margin="auto" height="350px" width="700px" src="https://github.com/ZiyaAkhundov/ZiyaAkhundov/blob/main/front-end.png?raw=true"/>
-![Web Development](https://github.com/ZiyaAkhundov/ZiyaAkhundov/blob/main/front-end.png?raw=true)
+<!-- ![Web Development](https://github.com/ZiyaAkhundov/ZiyaAkhundov/blob/main/front-end.png?raw=true) -->
 
 ## Hi there 👋, I'm Ziya Akhundov
 <img align="right" alt="GIF" height="160px" src="https://github.com/ZiyaAkhundov/ZiyaAkhundov/blob/main/ZiyaAkhundov.gif?raw=true"/>
