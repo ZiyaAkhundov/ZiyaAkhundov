@@ -20,4 +20,6 @@ I'm Front-end developer. I realy enjoy learning languages and frameworks. Some t
 <img align="left" alt="github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </a> -->
 [<img src='https://cdn-icons-png.flaticon.com/512/25/25231.png' alt='github' style="padding-right: 30px" height='40'>](https://github.com/ZiyaAkhundov)  [<img src='https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png' alt='linkedin' style="padding-right: 30px" height='40'>](https://www.linkedin.com/in/ziya-akhundov-b69132242/) [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png' alt='facebook' style="padding-right: 30px" height='40'>](https://www.facebook.com/ziya.akhundov)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png' alt='instagram' style="padding-right: 30px" height='40'>](https://www.instagram.com/akhundov_ziya)  
-
+<a href="https://www.youtube.com/@ProgrammersSchool" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
