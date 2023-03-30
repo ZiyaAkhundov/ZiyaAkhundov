@@ -18,7 +18,7 @@ I'm Front-end developer. I realy enjoy learning languages and frameworks. Some t
 </a>
 
 ## Skills and Experience: 
-* 💻 HTML,CSS,JAVASCRIPT,JQUERY,BOOTSTRAP
+* 💻 Html,Css,Javascript,Jquery,Bootstrap,Tailwind css, Sql, C#
 * 💾 SQL
 <!-- <a href="https://github.com/ZiyaAkhundov"
 <img align="left" alt="github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
