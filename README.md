@@ -5,7 +5,7 @@
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Frontend+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
-  <img align="center" margin="auto" height="350px" width="700px" src="https://github.com/ZiyaAkhundov/ZiyaAkhundov/blob/main/front-end.png?raw=true"/>
+
 <!-- ![Web Development](https://github.com/ZiyaAkhundov/ZiyaAkhundov/blob/main/front-end.png?raw=true) -->
 
 ## Hi there 👋, I'm Ziya Akhundov
