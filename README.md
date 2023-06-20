@@ -11,14 +11,14 @@
 ## Hi there 👋, I'm Ziya Akhundov
 <img align="right" alt="GIF" height="160px" src="https://github.com/ZiyaAkhundov/ZiyaAkhundov/blob/main/ZiyaAkhundov.gif?raw=true"/>
 
-I'm Front-end developer. I realy enjoy learning languages and frameworks. Some technologies I enjoy working with include Javascript and Jquery. Previously i worked on help desk and technical support in ASOİU.
+I'm Front-end developer. I realy enjoy learning languages and frameworks. Some technologies I enjoy working with include Javascript and Jquery.
 
 <a href="https://www.youtube.com/@ProgrammersSchool" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
 
 ## Skills and Experience: 
-* 💻 Html, Css, Javascript, Jquery, Bootstrap, Tailwind css, Sql, C#
+* 💻 Html, Css, Javascript, Jquery, React js Bootstrap, Tailwind css, Sql, C#
 * 💾 SQL
 <!-- <a href="https://github.com/ZiyaAkhundov"
 <img align="left" alt="github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
