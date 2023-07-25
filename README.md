@@ -11,10 +11,15 @@
 ## Hi there 👋, I'm Ziya Akhundov
 <img align="right" alt="GIF" height="160px" src="https://github.com/ZiyaAkhundov/ZiyaAkhundov/blob/main/ZiyaAkhundov.gif?raw=true"/>
 
-I'm Front-end developer. I realy enjoy learning languages and frameworks. Some technologies I enjoy working with include Javascript and Jquery.
+I'm Front-end developer. I realy enjoy learning languages and frameworks. Some technologies I enjoy working with include Javascript and React JS.
 
 <a href="https://www.youtube.com/@ProgrammersSchool" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>
+
+##Founder of ProgrammersSchool
+<a href="https://github.com/ProgrammersSchool">
+    <img alt="GitHub" src="https://img.shields.io/github/license/ProgrammersSchool/:repo?logo=Github">
 </a>
 
 ## Skills and Experience: 
