@@ -21,7 +21,6 @@ I'm Front-end developer. I realy enjoy learning languages and frameworks. Some t
 <a href="https://github.com/ProgrammersSchool">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=ProgrammersSchool&color=004088&logo=PS&logoColor=FFFFFF&label=" alt="PS" />
 </a>
-
 ## Skills and Experience: 
 * 💻 Html, Css, Javascript, Jquery, React js Bootstrap, Tailwind css
 * 💾 SQL,C#
