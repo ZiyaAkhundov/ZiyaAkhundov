@@ -17,7 +17,7 @@ I'm Front-end developer. I realy enjoy learning languages and frameworks. Some t
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
 
-## Founder of ProgrammersSchool </br>
+## Founder of ProgrammersSchool
 <a href="https://github.com/ProgrammersSchool">
   ![ProgrammersSchool](https://img.shields.io/static/v1?style=for-the-badge&message=ProgrammersSchool&color=004088&logo=PS&logoColor=FFFFFF&label=)
 </a>
