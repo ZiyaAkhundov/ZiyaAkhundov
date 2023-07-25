@@ -20,6 +20,7 @@ I'm Front-end developer. I realy enjoy learning languages and frameworks. Some t
 ## Founder of ProgrammersSchool
 
   ![4D](https://img.shields.io/static/v1?style=for-the-badge&message=4D&color=004088&logo=4D&logoColor=FFFFFF&label=)
+  ![PS](https://img.shields.io/static/v1?style=for-the-badge&message=ProgrammersSchool&color=004088&logo=PS&logoColor=FFFFFF&label=)
 
 
 ## Skills and Experience: 
