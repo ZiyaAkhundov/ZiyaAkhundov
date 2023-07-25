@@ -18,7 +18,7 @@ I'm Front-end developer. I realy enjoy learning languages and frameworks. Some t
 </a>
 
 ## Founder of ProgrammersSchool
-<a href="https://github.com/ProgrammersSchool">
+<a href="https://github.com/ProgrammersSchool" target="_blank">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=ProgrammersSchool&color=004088&logo=PS&logoColor=FFFFFF&label=" alt="PS" />
 </a>
 
