@@ -23,8 +23,7 @@ I'm Front-end developer. I realy enjoy learning languages and frameworks. Some t
 </a>
 
 ## Skills and Experience: 
-* 💻 Html, Css, Javascript, Jquery, React js Bootstrap, Tailwind css
-* 💾 SQL,C#
+* 💻 Html, Css, Tailwind css, Javascript, React js, React Native, Typescript, Next js, Express js, MongoDB
 <!-- <a href="https://github.com/ZiyaAkhundov"
 <img align="left" alt="github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </a> -->
